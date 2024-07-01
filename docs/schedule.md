@@ -14,10 +14,10 @@ Program Schedule will be outlined once it becomes available
 
 Our Call for proposals is opened - **Submit a talk**
 
+<!-- ## Friday
 
-## Talks
+### -Talks-
 
-###### -Friday-
 
 | Time               | Session 1          | Session 2          |
 |--------------------|--------------------|--------------------|
@@ -26,9 +26,11 @@ Our Call for proposals is opened - **Submit a talk**
 | 12:00 PM - 1:00 PM | **Lunch Break**       | **Lunch Break**       |
 | 1:00 PM - 2:00 PM  | Talk 5: Machine Learning | Talk 6: DevOps Practices |
 | 2:30 PM - 3:30 PM  | Talk 7: Cybersecurity  | Talk 8: Cloud Computing  |
-| 4:00 PM - 4:30 PM  | Talk 9: Networking    | Talk 10: Community Building |
+| 4:00 PM - 4:30 PM  | Talk 9: Networking    | Talk 10: Community Building | -->
 
-###### -Saturday-
+<!-- ## Saturday
+
+### -Tutorial-
 
 | Time         | Session 1          | Session 2          |
 |--------------|--------------------|--------------------|
@@ -37,8 +39,8 @@ Our Call for proposals is opened - **Submit a talk**
 | 12:00 PM - 1:00 PM | **Lunch Break**       | **Lunch Break**       |
 | 1:00 PM - 2:00 PM  | Talk 15: NLP Techniques | Talk 16: Continuous Integration |
 | 2:30 PM - 3:30 PM  | Talk 17: Network Security | Talk 18: Serverless Architectures |
-| 4:00 PM - 4:30 PM  | Talk 19: Closing Keynote | Talk 20: Future of Tech   |
-
+| 4:00 PM - 4:30 PM  | Talk 19: Closing Keynote | Talk 20: Future of Tech   | -->
+<!-- 
 ## Speakers
 
 <div class="speakers-grid">
@@ -60,5 +62,5 @@ Our Call for proposals is opened - **Submit a talk**
     <p><a href="https://twitter.com/alicejohnson">@alicejohnson</a></p>
     <p>Data Science</p>
   </div>
-  <!-- Add more speakers here in the same format -->
-</div>
+  <!-- Add more speakers here in the same format --/>
+</div> -->
