@@ -6,14 +6,14 @@ description: A foundational regional Python Conference of the Python and develop
 <!-- Full width banner image -->
 <div style="text-align: center;">
 
-  <img src="image/pythonhoC.png" alt="Conference Logo" style="width: 15%; position: absolute; top: 25%; left: 42%;">
+  <!-- <img src="image/pythonhoC.png" alt="Conference Logo" style="width: 15%; position: absolute; top: 25%; left: 42%;"> -->
 
 </div>
 
 <!-- Centered content -->
 <div style="text-align: center;">
 
-    <img src="image/Adaklu-Ghana_Mission.jpg" alt="Screenshot" style="width: 100%; max-width: 100%; height: auto;">
+    <img src="image/page-banner3.jpeg" alt="Page banner" style="width: 100%; max-width: 100%; height: auto;">
 
     <div class="hero-text">
 
