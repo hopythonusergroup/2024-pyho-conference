@@ -9,7 +9,7 @@ Attending PythonHo Conference is free and open to all to attend
 
 ## Registration (Open)
 
-Follow the link to register, or register here on this page using the form
+Follow the link to [register](http://), or register here on this page using the form
 
 **Venue:**  
 
