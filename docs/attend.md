@@ -9,7 +9,7 @@ Attending PythonHo Conference is free and open to all to attend
 
 ## Registration (Open)
 
-Follow the link to [register](http://), or register here on this page using the form
+Follow the link to [register](https://www.papercall.io/cfps/6013/submissions/new), or use the form on this page.
 
 **Venue:**  
 

@@ -10,9 +10,11 @@ description: A foundational regional Python Conference of the Python and develop
 
 Program Schedule will be outlined once it becomes available
 
-- Want to Speak at PythonHo Conference?
+### Want to Speak at PythonHo Conference?
 
-Our Call for proposals is opened - **Submit a talk**
+- Our Call for proposals is opened - <a href="https://www.papercall.io/cfps/6013/submissions/new" target="_blank">**Submit a talk**</a>
+
+***The deadline for submissions is September 20, 2024. We will review all proposals and notify selected speakers by September 30, 2024.***
 
 <!-- ## Friday
 

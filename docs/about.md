@@ -44,7 +44,7 @@ Volta Region - Ghana.
 
 ## Code of Conduct
 
-We adhere to and follow the [PSF Code of Conduct](https://policies.python.org/python.org/code-of-conduct/)
+We adhere to and follow the <a href="https://policies.python.org/python.org/code-of-conduct/" target="_blank">**PSF Code of Conduct**</a>
 
 ## Reporting
 
