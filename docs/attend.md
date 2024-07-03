@@ -9,7 +9,20 @@ Attending PythonHo Conference is free and open to all to attend
 
 ## Registration (Open)
 
-Follow the link to [register](https://www.papercall.io/cfps/6013/submissions/new), or use the form on this page.
+Follow this link to <a href="https://ti.to/pythonho/2024" target="_blank">**register**</a>, or
+
+use the form below on this page.
+
+<html>
+    <head>
+    <script src="https://js.tito.io/v2" async></script>
+  </head>
+  <body>
+    <tito-widget
+      event="pythonho/2024"
+    ></tito-widget>
+  </body>
+</html>
 
 **Venue:**  
 
