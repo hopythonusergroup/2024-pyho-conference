@@ -46,6 +46,16 @@ Volta Region - Ghana.
 
 We adhere to and follow the <a href="https://policies.python.org/python.org/code-of-conduct/" target="_blank">**PSF Code of Conduct**</a>
 
+## Diversity and Inclusion
+
+> The Python Software Foundation and the global Python community welcome and encourage participation by everyone. Our community is based on mutual respect, tolerance, and encouragement, and we are working to help each other live up to these principles. We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.
+
+***We adhere strictly to the Diversity Statement from [ThePSF](https://www.python.org/psf/diversity/)***
+
+**But most importantly:**
+
+<mark>We aim at fostering an inclusive, respectful conference environment, promoting participation from diverse backgrounds, and promoting inclusivity.</mark>
+
 ## Reporting
 
 Report any misconduct or incidents to organizers or send us an email via [ho@pythonghana.org](mailto:ho@pythonghana.org)
