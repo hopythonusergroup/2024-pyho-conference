@@ -29,3 +29,5 @@ nav:
   - Sponsors:
     - sponsors/sponsor-us.md
     - sponsors/our-sponsors.md
+markdown_extensions:
+  - attr_list
