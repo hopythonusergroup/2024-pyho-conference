@@ -38,6 +38,4 @@ description: A foundational regional Python Conference of the Python and develop
         </h2>
     </div>
 
-  <p>We want to keep it beautiful, at the same time simple - now or never.</p>
-
 </div>
