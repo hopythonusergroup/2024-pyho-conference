@@ -23,7 +23,9 @@ theme:
 copyright: Copyright &copy; 2024 - PythonHo
 nav:
   - Home: index.md
-  - About: about.md
+  - About:
+    - about.md
+    - hnspolicy.md
   - Attending: attend.md
   - Schedule: schedule.md
   - Sponsors:
