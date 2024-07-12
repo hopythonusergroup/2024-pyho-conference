@@ -7,7 +7,6 @@ description: A foundational regional Python Conference of the Python and develop
 
 <mark>The first Python Conference will be held on October 25th - 26th, 2024 in Ho, Volta Region.</mark>
 
-
 We're a regional Python conference, run by volunteers from the developer and Python community within and beyond the region. This event celebrates the developer community's activities, achievements, and contributions within and beyond the region, bringing together the Volta community.
 
 <!-- A regional Python conference by the people of Volta from the Python Ho community and run by volunteers from the Python community in Ho and Volta. This event aims to bring together the developer community under one umbrella within and beyond the region to celebrate the community’s activities, achievements, and the general contributors at large. -->
@@ -22,9 +21,9 @@ We want to be known for as the foundational, regional Python community conferenc
 
 <!-- A **two-day** track gathering of talks and tutorials/workshops aimed at promoting diversity and inclusion, Python in education, and promoting the use, leverage, and adoption of the Python programming language from underrepresented communities/regions. -->
 
-A **two-day** track,
+A **two-day**, single track conference,
 
-The conference will feature talks, tutorials, and workshops aimed at promoting diversity and inclusion in Python education, particularly from underrepresented communities.
+The conference will feature talks, tutorials, and workshops aimed at promoting diversity and inclusion and Python in education, particularly from underrepresented communities.
 
 **Date:**  
 
