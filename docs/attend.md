@@ -1,5 +1,5 @@
 ---
-title: Attending Python Ho Conference
+title: Attend
 description: A foundational regional Python Conference of the Python and developer community in Volta.
 ---
 

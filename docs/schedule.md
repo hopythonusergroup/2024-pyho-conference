@@ -1,6 +1,5 @@
 ---
-title: Program Schedule PyHo Conference
-# template: home.html
+title: Schedule
 description: A foundational regional Python Conference of the Python and developer community in Volta.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Health and Safety Policy Guide
+title: Health and Safety Policy
 description: A foundational regional Python Conference of the Python and developer community in Volta.
 ---
 
