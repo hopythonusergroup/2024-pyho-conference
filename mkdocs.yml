@@ -1,4 +1,4 @@
-site_name: PyHo Conference
+site_name: PyHo 2024
 site_author: Python Ho
 site_url: https://github.com/hopythonusergroup/2024.PyHo.Conference
 # repo_url: https://github.com/hopythonusergroup/2024.PyHo.Conference
@@ -16,7 +16,7 @@ theme:
     title: blue
     background: aliceblue
   site_name_style: bold
-  logo: image/logo.jpeg
+  logo: image/logo.jpg
   favicon: image/favicon.ico
   # name: simple-blog
   # custom_dir: custom_theme/
@@ -27,7 +27,7 @@ nav:
     - about.md
     - hnspolicy.md
     - volunteer.md
-  - Attending: attend.md
+  - Attend: attend.md
   - Schedule: schedule.md
   - Sponsors:
     - sponsors/sponsor-us.md
