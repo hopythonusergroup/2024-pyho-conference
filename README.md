@@ -1,5 +1,9 @@
 # 2024 PyHo  Community Conference Website
 
+## This website is developed using [MkDocs](https://www.mkdocs.org/)
+
+If you are unfamiliar with MkDocs, please take a few minutes to go through the [Getting Started with MkDocs](https://www.mkdocs.org/getting-started/)
+
 ## Contributing
 
 1. Fork a copy of the repository
