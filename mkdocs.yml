@@ -11,6 +11,7 @@ theme:
     footer: true
     preview: false
     title: false
+    # menu: false
   colors:
     primary: black
     title: blue
@@ -20,17 +21,22 @@ theme:
   favicon: image/favicon.ico
   # name: simple-blog
   # custom_dir: custom_theme/
-copyright: Copyright &copy; 2024 - PythonHo
-nav:
-  - Home: index.md
-  - About:
-    - about.md
-    - hnspolicy.md
-    - volunteer.md
-  - Attend: attend.md
-  - Schedule: schedule.md
-  - Sponsors:
-    - sponsors/sponsor-us.md
-    - sponsors/our-sponsors.md
+# nav:
+#   - Home: index.md
+#   - About:
+#     - about/about.md
+#     - about/hnspolicy.md
+#     - about/volunteer.md
+#   - Attend: attend.md
+#   - Schedule: schedule.md
+#   - Sponsors:
+#     - sponsors/sponsor-us.md
+#     - sponsors/our-sponsors.md
+plugins:
+  - blog:
+      format: ""
+      text-align: "left"
+      display-article-date: false
 markdown_extensions:
   - attr_list
+copyright: Copyright &copy; 2024 - PythonHo
