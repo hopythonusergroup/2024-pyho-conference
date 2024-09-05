@@ -13,7 +13,7 @@ description: A foundational regional Python Conference of the Python and develop
 <!-- Centered content -->
 <div style="text-align: center;">
 
-    <img src="image/jumbo-banner-2.JPG" alt="Page banner" style="width: 100%; max-width: 100%; height: auto;">
+    <img src="image/jumbo-banner-2.JPG" alt="Page banner" style="width: 100%; max-width: 100%; height: auto;" />
 
     <div class="hero-text">
 
