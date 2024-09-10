@@ -1,5 +1,5 @@
 ---
-title: Sponsor Us
+title: Our Sponsors
 description: A foundational regional Python Conference of the Python and developer community in Volta.
 ---
 
@@ -37,7 +37,7 @@ Supporting diversity and inclusion initiatives to ensure everyone has equal oppo
 
 ---
 
-<!-- ## Media
+## Media
 
-![Sponsor 1 Logo](link-to-sponsor1-image.png)
-Our media partner, helping us spread the word through publications and digital media coverage. -->
+![Sponsor 1 Logo](../image/sponsors/kwekutech-logo-primary.png)
+Our media partner, helping us spread the word through publications and digital media coverage.
