@@ -7,7 +7,9 @@ description: A foundational regional Python Conference of the Python and develop
 
 ----------------------------------------------------------------
 
-Program Schedule will be outlined once it becomes available
+Our call for Speakers has closed.
+
+<!-- Program Schedule will be outlined once it becomes available
 
 ### Want to Speak at PythonHo Conference?
 
@@ -69,12 +71,11 @@ Networking: Access to exclusive speaker events and networking opportunities with
 
 We look forward to receiving your proposals and hearing the unique perspectives and insights you have to share. Let’s make the 2024 PythonHo Conference an unforgettable event!
 
-For any questions or further information, [please contact us at](mailto:ho@pythonghana.org)
+For any questions or further information, [please contact us at](mailto:ho@pythonghana.org) -->
 
 <!-- ## Friday
 
 ### -Talks-
-
 
 | Time               | Session 1          | Session 2          |
 |--------------------|--------------------|--------------------|
@@ -98,6 +99,7 @@ For any questions or further information, [please contact us at](mailto:ho@pytho
 | 2:30 PM - 3:30 PM  | Talk 17: Network Security | Talk 18: Serverless Architectures |
 | 4:00 PM - 4:30 PM  | Talk 19: Closing Keynote | Talk 20: Future of Tech   | -->
 <!-- 
+
 ## Speakers
 
 <div class="speakers-grid">
