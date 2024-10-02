@@ -5,9 +5,9 @@ description: A foundational regional Python Conference of the Python and develop
 
 ## Conference Schedule
 
-----------------------------------------------------------------
+---
 
-Our call for Speakers has closed.
+**Our call for Speakers has closed.**
 
 <!-- Program Schedule will be outlined once it becomes available
 
@@ -73,31 +73,187 @@ We look forward to receiving your proposals and hearing the unique perspectives 
 
 For any questions or further information, [please contact us at](mailto:ho@pythonghana.org) -->
 
-<!-- ## Friday
+### Pre-Conference Social Meetup:
+**Thursday, October 24, 2024**
 
-### -Talks-
+**6:00 PM**
 
-| Time               | Session 1          | Session 2          |
-|--------------------|--------------------|--------------------|
-| 9:30 AM - 10:30 AM | Talk 1: Python Basics | Talk 2: Advanced AI   |
-| 11:00 AM - 12:00 PM | Talk 3: Data Science  | Talk 4: Web Development |
-| 12:00 PM - 1:00 PM | **Lunch Break**       | **Lunch Break**       |
-| 1:00 PM - 2:00 PM  | Talk 5: Machine Learning | Talk 6: DevOps Practices |
-| 2:30 PM - 3:30 PM  | Talk 7: Cybersecurity  | Talk 8: Cloud Computing  |
-| 4:00 PM - 4:30 PM  | Talk 9: Networking    | Talk 10: Community Building | -->
+***Host: Django.Social Ghana***
 
-<!-- ## Saturday
+**Venue: TBD**
 
-### -Tutorial-
+***This will require a pre-registration prior: you can [RSVP here:](https://tinyurl.com/pyho-24-django-social)***
 
-| Time         | Session 1          | Session 2          |
-|--------------|--------------------|--------------------|
-| 9:30 AM - 10:30 AM | Talk 11: Python for Beginners | Talk 12: AI Ethics      |
-| 11:00 AM - 12:00 PM | Talk 13: Big Data Analysis | Talk 14: Mobile Development |
-| 12:00 PM - 1:00 PM | **Lunch Break**       | **Lunch Break**       |
-| 1:00 PM - 2:00 PM  | Talk 15: NLP Techniques | Talk 16: Continuous Integration |
-| 2:30 PM - 3:30 PM  | Talk 17: Network Security | Talk 18: Serverless Architectures |
-| 4:00 PM - 4:30 PM  | Talk 19: Closing Keynote | Talk 20: Future of Tech   | -->
+### Day 1: Friday, October 25, 2024
+
+<mark>
+**9:00 AM - 9:30 AM**  
+Registration & Breakfast  
+---
+</mark>
+
+<mark>
+**9:30 AM - 9:45 AM**  
+Opening Remarks  
+---
+</mark>
+
+**9:45 AM - 10:30 AM**  
+**Keynote:** Is Python really easy?  
+**Speaker:** Reuven Lerner  
+---
+
+**10:30 AM - 10:55 AM**  
+**Talk:** Unlocking the Power of Large Language Models: The AI Engine Driving Modern Medicine  
+**Speaker:** Redeemer Salami Okekale  
+---
+
+**10:55 AM - 11:20 AM**  
+**Talk:** Before You Scale, Let's Talk SOLID - Significance of Solid Principles as Prerequisite for Scaling Software Systems  
+**Speaker:** Theresa Seyram Agbenyegah  
+---
+
+**11:20 AM - 11:50 AM**  
+**Workshop:** Loop-de-Loop: The Wild Ride of Adding a for Loop to CPython  
+**Speaker:** Gerhardt Kwame Datsomor  
+---
+
+<mark>**11:50 AM - 12:00 PM**  
+Break  
+---
+</mark>
+
+<mark>
+**12:00 PM - 1:00 PM**  
+Lunch Break  
+---
+</mark>
+
+**1:00 PM - 1:25 PM**  
+**Talk:** How to Sort Anything  
+**Speaker:** Reuven Lerner  
+---
+
+**1:25 PM - 1:50 PM**  
+**Talk:** From Play to Python  
+**Speaker:** Barbara Asiamah  
+---
+
+**1:50 PM - 2:15 PM**  
+**Talk:** What I Would Do to Be a Better Programmer  
+**Speaker:** Rudy Ayitinya Sulley  
+---
+
+**2:15 PM - 2:45 PM**  
+**Panel Discussion:** Diversity and Inclusion Panel  
+**Panelists:** PyLadies Ghana, WiMLDS  
+---
+
+**2:45 PM - 3:00 PM**  
+**Talk:** Relevant Ecosystems That Support Tech to Thrive - PythonHo a Case in Point  
+**Speaker:** Courage Asase  
+---
+
+**3:00 PM - 3:10 PM**  
+**Lightning Talk:** Django.Social Ghana  
+---
+
+**3:10 PM - 3:40 PM**  
+**Workshop:** Model to Market: A Practical Workshop on ML Deployment  
+**Speaker:** Jesse Kayenpono Han-Naa Murah  
+---
+
+**3:40 PM - 4:10 PM**  
+**Talk:** Demystifying ML Workflows with Prossa and Essential Open-Source Tools  
+**Speaker:** Fosberg Addai  
+---
+
+**4:10 PM - 4:45 PM**  
+**Talk:** Reinforced Meta Learning: Bridging Human-Like Decision Making and AI  
+**Speaker:** Jason Quist  
+---
+
+<mark>
+**4:45 PM**  
+Closing Day 1  
+---
+</mark>
+
+### Day 2: Saturday, October 26, 2024
+
+<mark>
+**9:00 AM - 9:30 AM**  
+Registration & Breakfast  
+---
+</mark>
+
+<mark>
+**9:30 AM - 9:45 AM**  
+Opening Remarks  
+---
+</mark>
+
+**9:45 AM - 10:30 AM**  
+**Keynote:** Collaboration and Open Source Contributions: Lessons from Building and Sustaining a Python Community  
+**Speaker:** Afi Maame Dufie  
+---
+
+**10:30 AM - 10:55 AM**  
+**Talk:** Discover How to Create Dynamic Web Applications Effortlessly with Django and HTMX!  
+**Speaker:** Ezra Yendau  
+---
+
+**10:55 AM - 11:20 AM**  
+**Talk:** Python & Azure: A Match Made in DevOps Heaven (with GitHub Actions)  
+**Speaker:** Anthony Mensah Addae  
+---
+
+**11:20 AM - 12:00 PM**  
+**Workshop:** Dangers of Enforcing Forced Accuracy  
+**Speaker:** Elikplim Gamor  
+---
+
+<mark>
+**12:00 PM - 1:00 PM**  
+Lunch Break  
+---
+</mark>
+
+**1:00 PM - 1:25 PM**  
+**Talk:** From Dependency Hell to Environment Heaven  
+**Speaker:** Ori Bar-ilan  
+---
+
+**1:25 PM - 1:50 PM**  
+**Talk:** Empowering Tertiary Students: Introducing PyClubs for Enhanced Python Skills and Community Engagement  
+**Speaker:** Johanan Oppong Amoateng  
+---
+
+**1:50 PM - 2:15 PM**  
+**Talk:** FastDjango: Conjuring Powerful APIs with the Sorcery of Django Ninja  
+**Speaker:** Julius Boakye  
+---
+
+**2:15 PM - 2:50 PM**  
+**Panel Discussion:** PyLadies Ghana Panel  
+---
+
+**2:50 PM - 3:15 PM**  
+**Talk:** Coding the Future: Empowering Young Minds with Python  
+**Speaker:** Desmond Kitsi  
+---
+
+**3:15 PM - 3:25 PM**  
+**Lightning Talk:** Building Responsibly with Python: Ethical and Sustainable Practices  
+**Speaker:** Issaka Sadick  
+---
+
+<mark>
+**3:25 PM**  
+Closing Remarks & Acknowledgments  
+---
+</mark>
+
 <!-- 
 
 ## Speakers
