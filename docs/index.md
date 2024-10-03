@@ -3,13 +3,6 @@ title: 2024 PyHo Conference
 description: A foundational regional Python Conference of the Python and developer community in Volta.
 --- -->
 
-<!-- Full width banner image -->
-<div style="text-align: center;">
-
-  <!-- <img src="image/pythonhoC.png" alt="Conference Logo" style="width: 15%; position: absolute; top: 25%; left: 42%;"> -->
-
-</div>
-
 <!-- Centered content -->
 <div style="text-align: center;">
 
