@@ -253,29 +253,3 @@ Lunch Break
 Closing Remarks & Acknowledgments  
 ---
 </mark>
-
-<!-- 
-
-## Speakers
-
-<div class="speakers-grid">
-  <div class="speaker">
-    <img src="https://via.placeholder.com/100" class="rounded" alt="Jane Doe"/>
-    <h4>Jane Doe</h4>
-   <p><a href="https://twitter.com/janedoe">@janedoe</a></p>
-    <p>Python Basics</p>
-  </div>
-  <div class="speaker">
-    <img src="https://via.placeholder.com/100" class="rounded" alt="John Smith"/>
-    <h4>John Smith</h4>
-    <p><a href="https://www.linkedin.com/in/johnsmith">LinkedIn</a></p>
-    <p>Advanced AI</p>
-  </div>
-  <div class="speaker">
-    <img src="https://via.placeholder.com/100" class="rounded" alt="Alice Johnson"/>
-    <h4>Alice Johnson</h4>
-    <p><a href="https://twitter.com/alicejohnson">@alicejohnson</a></p>
-    <p>Data Science</p>
-  </div>
-  <!-- Add more speakers here in the same format --/>
-</div> -->
