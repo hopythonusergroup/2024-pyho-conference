@@ -113,15 +113,10 @@ Opening Remarks
 **Speaker:** Theresa Seyram Agbenyegah  
 ---
 
-**11:20 AM - 11:50 AM**  
-**Workshop:** Loop-de-Loop: The Wild Ride of Adding a for Loop to CPython  
+**11:20 AM - 12:00 PM**  
+**Workshop:** Loop-de-Loop: The Wild Ride of Adding a fore Loop to CPython  
 **Speaker:** Gerhardt Kwame Datsomor  
 ---
-
-<mark>**11:50 AM - 12:00 PM**  
-Break  
----
-</mark>
 
 <mark>
 **12:00 PM - 1:00 PM**  
@@ -149,26 +144,26 @@ Lunch Break
 **Panelists:** PyLadies Ghana, WiMLDS  
 ---
 
-**2:45 PM - 3:00 PM**  
+**2:45 PM - 3:10 PM**  
 **Talk:** Relevant Ecosystems That Support Tech to Thrive - PythonHo a Case in Point  
 **Speaker:** Courage Asase  
 ---
 
-**3:00 PM - 3:10 PM**  
+**3:10 PM - 3:20 PM**  
 **Lightning Talk:** Django.Social Ghana  
 ---
 
-**3:10 PM - 3:40 PM**  
+**3:20 PM - 4:00 PM**  
 **Workshop:** Model to Market: A Practical Workshop on ML Deployment  
 **Speaker:** Jesse Kayenpono Han-Naa Murah  
 ---
 
-**3:40 PM - 4:10 PM**  
+**4:00 PM - 4:25 PM**  
 **Talk:** Demystifying ML Workflows with Prossa and Essential Open-Source Tools  
 **Speaker:** Fosberg Addai  
 ---
 
-**4:10 PM - 4:45 PM**  
+**4:25 PM - 4:50 PM**  
 **Talk:** Reinforced Meta Learning: Bridging Human-Like Decision Making and AI  
 **Speaker:** Jason Quist  
 ---
