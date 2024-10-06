@@ -18,7 +18,9 @@ We’re seeking selfless, dedicated, motivated, and awesome individuals who are 
 
 ## Interested in volunteering?
 
-If you are passionate about helping out during the conference, please fill out the volunteer form here: [APPLY HERE](https://tinyurl.com/pyho24-volunteer){:target="_blank"}
+<mark>Our call for volunteer has closed!</mark> See you 2025...
+
+<!-- If you are passionate about helping out during the conference, please fill out the volunteer form here: [APPLY HERE](https://tinyurl.com/pyho24-volunteer){:target="_blank"} -->
 
 <!-- ### Roles: -->
 

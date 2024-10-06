@@ -7,7 +7,7 @@ description: A foundational regional Python Conference of the Python and develop
 
 Attending PythonHo Conference is free and open to all to attend
 
-## Registration (Open)
+## Registration <mark>(Closed)</mark>
 
 Follow this link to <a href="https://ti.to/pythonho/2024" target="_blank">**register**</a>, or
 
