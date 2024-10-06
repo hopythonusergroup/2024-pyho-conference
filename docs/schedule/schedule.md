@@ -150,7 +150,8 @@ Lunch Break
 ---
 
 **3:10 PM - 3:20 PM**  
-**Lightning Talk:** Django.Social Ghana  
+**Lightning Talk:** Django.Social  
+**Speaker:** Jon Gould
 ---
 
 **3:20 PM - 4:00 PM**  
