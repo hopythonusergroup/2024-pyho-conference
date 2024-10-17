@@ -38,6 +38,8 @@ Volta Region - Ghana.
 
 ## Grants
 
+**Our Grant Program has Closed**
+
 Whilst we aim to accommodate all attendees, regardless of age, race, gender, ethnicity, ability, or sexual orientation, by offering financial assistance to community members unable to attend.
 
 We are assessing our budget and aiming to provide tickets as a simple form of grant to cover travel and lodging expenses.
