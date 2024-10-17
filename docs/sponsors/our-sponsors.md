@@ -34,6 +34,10 @@ BPD community focuses on creating a space for Black Pythonistas of all skill lev
 
 Genius IT Brainery is on a mission to empower young Africans with industry-relevant ICT skills, nurture leadership and entrepreneurial potential, and position Africa as a hub for transformative IT leaders.
 
+<img src="../../image/sponsors/jetbrains.svg" alt="GITB Logo" class="rounded" />
+
+We are happy to have JetBrains support us through their User Group Support Program! Which aims to provide us with access to their development tools for productivity and efficiency.
+
 ---
 
 ## Diversity
