@@ -38,6 +38,10 @@ Genius IT Brainery is on a mission to empower young Africans with industry-relev
 
 We are happy to have JetBrains support us through their User Group Support Program! Which aims to provide us with access to their development tools for productivity and efficiency.
 
+<img src="../../image/sponsors/GH blck letter.png" alt="GITB Logo" class="rounded" />
+
+ICP Ghana focuses on building a thriving Web3 and blockchain ecosystem through the Internet Computer Protocol (ICP) by actively engaging developers, students, and entrepreneurs across the country to transition from Web2 to Web3 - via hands-on workshops, hackathons, and mentorship programs.
+
 ---
 
 ## Diversity
