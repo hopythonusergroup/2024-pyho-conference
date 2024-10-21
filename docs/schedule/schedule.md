@@ -129,14 +129,14 @@ Lunch Break
 **Speaker:** Reuven Lerner  
 ---
 
-**1:25 PM - 1:50 PM**  
-**Talk:** From Play to Python  
-**Speaker:** Barbara Asiamah  
+**1:25 PM - 1:50 PM** 
+**Talk:** Empowering Tertiary Students: Introducing PyClubs for Enhanced Python Skills and Community Engagement  
+**Speaker:** Johanan Oppong Amoateng
 ---
 
 **1:50 PM - 2:15 PM**  
-**Talk:** What I Would Do to Be a Better Programmer  
-**Speaker:** Rudy Ayitinya Sulley  
+**Talk:** FastDjango: Conjuring Powerful APIs with the Sorcery of Django Ninja  
+**Speaker:** Julius Boakye
 ---
 
 **2:15 PM - 2:45 PM**  
@@ -221,13 +221,13 @@ Lunch Break
 ---
 
 **1:25 PM - 1:50 PM**  
-**Talk:** Empowering Tertiary Students: Introducing PyClubs for Enhanced Python Skills and Community Engagement  
-**Speaker:** Johanan Oppong Amoateng  
+**Talk:** From Play to Python  
+**Speaker:** Barbara Asiamah
 ---
 
 **1:50 PM - 2:15 PM**  
-**Talk:** FastDjango: Conjuring Powerful APIs with the Sorcery of Django Ninja  
-**Speaker:** Julius Boakye  
+**Talk:** What I Would Do to Be a Better Programmer  
+**Speaker:** Rudy Ayitinya Sulley
 ---
 
 **2:15 PM - 2:50 PM**  
